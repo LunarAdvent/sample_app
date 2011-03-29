@@ -11,7 +11,11 @@ class PagesController < ApplicationController
 		@title = "About"
 	end
 	
+<<<<<<< HEAD
 	def help
+=======
+	def help 
+>>>>>>> static-pages
 		@title = "Help"
 	end
 	
